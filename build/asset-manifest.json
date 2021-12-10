@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/admin/static/css/main.c231162d.chunk.css",
+    "main.js": "/admin/static/js/main.7b7d2f72.chunk.js",
+    "main.js.map": "/admin/static/js/main.7b7d2f72.chunk.js.map",
+    "runtime-main.js": "/admin/static/js/runtime-main.9fd380ff.js",
+    "runtime-main.js.map": "/admin/static/js/runtime-main.9fd380ff.js.map",
+    "static/css/2.0ce4a37c.chunk.css": "/admin/static/css/2.0ce4a37c.chunk.css",
+    "static/js/2.3e7cd77a.chunk.js": "/admin/static/js/2.3e7cd77a.chunk.js",
+    "static/js/2.3e7cd77a.chunk.js.map": "/admin/static/js/2.3e7cd77a.chunk.js.map",
+    "index.html": "/admin/index.html",
+    "static/css/2.0ce4a37c.chunk.css.map": "/admin/static/css/2.0ce4a37c.chunk.css.map",
+    "static/css/main.c231162d.chunk.css.map": "/admin/static/css/main.c231162d.chunk.css.map",
+    "static/js/2.3e7cd77a.chunk.js.LICENSE.txt": "/admin/static/js/2.3e7cd77a.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/admin/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/full-screen-image-2.jpg": "/admin/static/media/full-screen-image-2.e2e1e456.jpg",
+    "static/media/full-screen-image-3.21a228cd.jpg": "/admin/static/media/full-screen-image-3.21a228cd.jpg",
+    "static/media/logo.svg": "/admin/static/media/logo.103b5fa1.svg",
+    "static/media/light-bootstrap-dashboard-pro-react.scss?v=2.0.0": "/admin/static/media/nucleo-icons.e8827b8a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fd380ff.js",
+    "static/css/2.0ce4a37c.chunk.css",
+    "static/js/2.3e7cd77a.chunk.js",
+    "static/css/main.c231162d.chunk.css",
+    "static/js/main.7b7d2f72.chunk.js"
+  ]
+}

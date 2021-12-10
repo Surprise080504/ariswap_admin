@@ -1,0 +1,19 @@
+.fixed-plugin{
+  background-color: unset;
+  .dropdown-toggle,
+  .dropdown-toggle:focus,
+  .dropdown-toggle:active {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    border: none !important;
+    padding: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    .fa-cogs {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    &::after{
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,34 @@
+.custom-switch {
+  min-height: 26px;
+  min-width: 62px;
+  padding: 0;
+  .custom-control-label::after {
+    width: 22px!important;
+    height: 22px!important;
+    border-radius: 22px;
+    transition: all .15s ease-in-out;
+    top: 2px;
+    left: 2px;
+    background-color: white;
+  }
+  .custom-control-label::before {
+    width: 62px!important;
+    height: 26px!important;
+    border-radius: 26px;
+    left: 0;
+    top: 0;
+    border: #ddd;
+    background: #ddd;
+  }
+  .custom-control-input:checked~.custom-control-label::after {
+    transform: translateX(36px);
+  }
+  &:hover{
+    .custom-control-input:checked~.custom-control-label::after{
+      margin-left: -6px;
+    }
+    .custom-control-label::after{
+      width: 28px !important;
+    }
+  }
+}
